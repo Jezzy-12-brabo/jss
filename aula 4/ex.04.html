@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <center>
+        <h1>Meu Primeiro formulario</h1>
+        <p>nome: <input type="text" name="nome" id="inome" placeholder="Digite seu nome"></input> </p>
+        <br>
+        <p>sobrenome: <input type="text" name="sobrenome" id="isobrenome" placeholder="Digite seu sobrenome"></input> </p>
+        <p> <input type="submit" value="enviar"></p>
+        <fieldset>
+            <h1>Formulario de validação</h1>
+            <legend>dados pessoais</legend>
+            <form action="index.html" method="get">
+                
+                 <p>  <label for="inome">Nome: </label></p>
+                
+                 <p> <input type="text" name="nome" id="inome" placeholder="Digite seu nome" minlength="4" maxlength="20" required name="nome"></p>
+
+                
+                    <p>  <label for="isobrenome">sobrenome:</label></p>
+                    
+                 <p> <input type="text" name="sobrenome" id="isobrenome" placeholder="Digite seu sobrenome" minlength="4" maxlength="20" required name="sobrenome"> </p>
+                 
+                 <p>    <label for="email">email:</label></p>
+                   
+                 <p> <input type="text" name="email" id="iemail" placeholder="Digite seu email" minlength="4" maxlength="20" required name="sobrenome"> </p>
+                 <p> <input type="submit" value="enviar"></p>
+                    
+
+            </form>
+        </fieldset>
+
+    </center>
+    
+</body>
+</html>
