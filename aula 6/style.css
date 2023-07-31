@@ -1,0 +1,55 @@
+body{
+    text-align: center;
+    font-family: cursive;
+    font-size: 20px;
+    color: red;
+    text-shadow: 5px 5px 5px green;
+    background-color: yellow
+    /*background: linear-gradient(black , yellow, blue);*/
+    /*background: radial-gradient(black,yellow,blue);*/
+
+}
+#d1{
+    width: 100px;
+    height: 75px;
+    background-color: bisque;
+    color: rgb(5, 5, 8);
+    font-size: 20px;
+    border: 5px solid blue;
+    margin-left: auto;
+    margin-right: auto;
+    transform: rotate(100px);
+}
+#d2{
+    width: 120px;
+    height: 85px;
+    background-color: rgb(235, 23, 33);
+    color: rgb(172, 172, 50);
+    font-size: 25px;
+    border: 15px solid rgb(179, 255, 0);
+    margin-left: auto;
+    margin-right: auto;
+    border-style: solid;
+    border-width: medium;
+    box-shadow: 20px, 10px, 10px, purple;/*sombra espaço na tela*/
+    border-radius: 75px;
+
+}
+#d3{
+    width: 150px;
+    height: 125px;
+    background-color: rgb(240, 232, 233);
+    color: rgba(255, 255, 3, 0.616);
+    font-size: 25px;
+    border: 15px solid rgba(125, 150, 66, 0.493);
+    margin-left: auto;
+    margin-right: auto; 
+    /* border-style: dashed;*/
+    border-style: dotted;
+    float: right;
+    position: relative;
+    top: 20px;
+    right: 20px;
+    
+
+}
