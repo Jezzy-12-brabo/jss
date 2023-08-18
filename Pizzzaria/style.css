@@ -1,0 +1,48 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+a{
+    color: rgb(14, 15, 13);
+    text-decoration: none;
+
+}
+a :hover {
+    opacity: 0.7;
+
+}
+.logo{
+    font-size: 24px;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+}
+nav{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    font-family: 'Segoe UI';
+    background-color: cornsilk;
+    height: 8vh;
+}
+
+main{
+    background: url() no-repeat center center;
+    background-size: cover;
+    height: 92vh  ;
+}
+.nav-list li{
+    letter-spacing: 3px;
+    margin-left: 32px ;
+}
+.border{
+
+ text-align: center;
+ border: solid 2px blue ;
+ margin: 50px;
+}
+body{
+    background-color: rgb(165, 231, 31)
+}
+.imgredonda{
+    border-radius: 50%;
+}
