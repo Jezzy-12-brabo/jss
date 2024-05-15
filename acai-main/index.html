@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Açaí da Massa</title>
+    <link rel="stylesheet" href="./assets/styles/index.css">
+</head>
+<body>
+<div class="background">
+<header id="inicio">
+    <div class="logo">
+        <img src="./assets/images/logoo.jpg" alt="logo">
+    </div> <!--Logo-->
+
+    <ul class="Links"> <!--Aqui é a parte do nosso menu-->
+        <li><a href="#inicio">Início</a></li>
+        <li><a href="Login.html">Login</a></li>
+        <li><a href="#sobre">Sobre</a></li>
+        <li><a href="#menu">Menu</a></li>
+        <li><a href="#">Produtos</a></li>
+        <li><a href="#">Contatos</a></li>
+        <li><a href="#">Blog</a></li>
+    </ul>
+
+    <div class="C-icone">
+        <span class="Ícone"><ion-icon name="search-outline"></ion-icon></span>
+        <span class="Ícone" onclick="toggleCart()"><ion-icon name="cart-outline"></ion-icon></span>
+    </div> <!--C-icon é para adicionar os ícones de lupa e carrinho-->
+</header>
+<hr> <!--Aqui é para aparecer uma linha que divide a página. O cabeçalho em cima e o resto embaixo. -->
+
+<div class="C-title"> <!--Texto que estão contidos-->
+    <div class="title"> <!--Colocar o texto no site-->
+        <h1>"Açaí pela tarde </h1>
+        <h1>É Massa!!" </h1>
+
+    </div> <!--Tittle-->
+
+    <p>Às vezes a gente só precisa de um convite para ser feliz:</p>
+    <p>Vamos tomar um açaí?</p>
+    <button>Compre agora</button> <!--Botão de compra-->
+
+</div> <!--Aqui é para colocar um título no site-->
+
+    </div> <!--Background-->
+
+    <section class="section-1" id="sobre"> <!--Criar seção para contar sobre nós-->
+        <h1><span>Sobre</span> Nós</h1>
+        <div class="Sobre-nós"> <!--Criar um campo para sobre nós-->
+
+            <div class="Sobre-img"> <!--Colocar a imagem em sobre nós-->
+                <img src="https://live.staticflickr.com/4097/34825494973_73b6d217dc_z.jpg" alt="Sobre">
+
+            </div>
+
+            <div class="Sobre-nós-title"> <!--Colocar o título dentro do sobre nós-->
+                <h2> O que faz nosso açaí especial? </h2>
+                <p>Imagine um lugar onde a natureza se encontra com o prazer de uma refeição saudável e deliciosa. O Açaí da Massa é mais do que um empreendimento, é uma celebração da vitalidade e do bem-estar, embalada no sabor exótico e irresistível do açaí.
+                    <br>
+                     Nossa missão é trazer para você a essência pura da Amazônia, repleta de antioxidantes, vitaminas e minerais, servida em cada tigela ou copo de açaí.</p>
+                     <button>Compre agora</button>
+
+
+            </div>
+
+
+        </div>
+
+
+    </section>
+
+    <section class="section-2" id="menu">
+        <h1> Nosso <span> Menu</span></h1>
+        <div class="Container-card-1">
+            <div class="card-img" onclick="addToCart('Açaí Tradicional', 9.99, 'acainahora.expressomenu.com.br/midias/item/acai-na-hora-3-jpg_1620419091.jpg')">
+                <img src="https://acainahora.expressomenu.com.br/midias/item/acai-na-hora-3-jpg_1620419091.jpg" alt="menu-img-1" width="200px" height="200px">
+                <h3>Açaí Tradicional</h3>
+                <p><span>R$15,00</span> R$9,99</p>
+                <button>Add ao Carrinho</button>
+            </div>
+
+            <div class="card-img"  onclick="addToCart('Açaí com Nutela', 14.99, 'i.pinimg.com/originals/93/40/09/9340098b79b3bab7ab886f8f2bcc69cf.jpg')">
+                <img src="https://i.pinimg.com/originals/93/40/09/9340098b79b3bab7ab886f8f2bcc69cf.jpg" alt="menu-img-2" width="200px" height="200px">
+                <h3>Açaí com Nutela</h3>
+                <p> <span>R$20,00</span> R$14,99 </p> 
+                <button>Add ao Carrinho</button>
+            </div>
+
+            <div class="card-img"  onclick="addToCart('Açaí Fitness', 25.99, 'i.pinimg.com/736x/bf/09/40/bf09402e8d1c713256637d1773fdd897.jpg')">
+                <img src="https://i.pinimg.com/736x/bf/09/40/bf09402e8d1c713256637d1773fdd897.jpg" alt="menu-img-3" width="200px" height="200px">
+                <h3>Açaí Fitness</h3>
+                <p><span>R$30,00</span> R$24,99</p>
+                <button>Add ao Carrinho</button>
+            </div>
+        </div>
+
+
+        <div id="Container-card-2">
+            <div class="card-img"  onclick="addToCart('Açaí com Banana', 14.99, 'geladoacaiesorvetelevebagoocombr.levebagoo.com.br/_core/_uploads/113/2022/10/1726201022df1ccg04gf.png')">
+                <img src="https://geladoacaiesorvetelevebagoocombr.levebagoo.com.br/_core/_uploads/113/2022/10/1726201022df1ccg04gf.png" alt="menu-img-4" width="200px" height="200px">
+                <h3>Açaí com Banana</h3>
+                <p><span>R$20,00</span> R$14,99</p>
+                <button>Add ao Carrinho</button>
+            </div>
+
+                <div class="card-img"  onclick="addToCart('Açaí com Morango', 19.99, 'i.pinimg.com/736x/40/83/e6/4083e60578d89ba8ca39f6ea1259df12.jpg')">
+                    <img src="https://i.pinimg.com/736x/40/83/e6/4083e60578d89ba8ca39f6ea1259df12.jpg" alt="menu-img-5" width="200px" height="200px">
+                    <h3>Açaí com Morango</h3>
+                    <p><span>R$25,00</span> R$19,99</p> 
+                    <button>Add ao Carrinho</button>
+                </div>
+
+                    <div class="card-img"  onclick="addToCart('Açaí Nutela c/Oreo', 29.99, 's2-casaejardim.glbimg.com/su03ntoBrWmPJNK_Ei6tgomjbZ4=/0x0:1400x1027/924x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_a0b7e59562ef42049f4e191fe476fe7d/internal_photos/bs/2022/W/6/l7thART0qmpulV2YLqKg/receita-acai-biscoito-bolacha-oreo-chocolate-ovomaltine-acai-purissimo.png')">
+                        <img src="https://s2-casaejardim.glbimg.com/su03ntoBrWmPJNK_Ei6tgomjbZ4=/0x0:1400x1027/924x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_a0b7e59562ef42049f4e191fe476fe7d/internal_photos/bs/2022/W/6/l7thART0qmpulV2YLqKg/receita-acai-biscoito-bolacha-oreo-chocolate-ovomaltine-acai-purissimo.png" alt="menu-img-6" width="200px" height="200px">
+                        <h3>Açaí Nutela c/Oreo</h3>
+                        <p><span>R$35,00</span> R$29,99</p> 
+                        <button>Add ao Carrinho</button>
+                    </div>
+
+
+        </div>
+
+    </section>
+
+    <div class="cart close">
+        <p class="title">Carrinho</p>
+        <div class="close-button" onclick="toggleCart()">
+            <ion-icon name="close-outline"></ion-icon>
+        </div>
+
+        <div class="cart-lines">
+        </div>
+
+        <div class="total">
+            <span>R$ 00,0</span>
+        </div>
+    </div>
+    <script type="module" src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.esm.js"></script>
+<script nomodule src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.js"></script>
+<script src="./js/cart.js"></script>
+</body>
+</html>
