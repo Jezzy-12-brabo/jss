@@ -1,0 +1,14 @@
+\\INFO\Informática\INF 07\Jessé\Linguagem de Programação para Desktop\Aula 01.c#\Aula 01.c#\obj\Debug\net8.0\Aula 01.c#.GeneratedMSBuildEditorConfig.editorconfig
+\\INFO\Informática\INF 07\Jessé\Linguagem de Programação para Desktop\Aula 01.c#\Aula 01.c#\obj\Debug\net8.0\Aula 01.c#.AssemblyInfoInputs.cache
+\\INFO\Informática\INF 07\Jessé\Linguagem de Programação para Desktop\Aula 01.c#\Aula 01.c#\obj\Debug\net8.0\Aula 01.c#.AssemblyInfo.cs
+\\INFO\Informática\INF 07\Jessé\Linguagem de Programação para Desktop\Aula 01.c#\Aula 01.c#\obj\Debug\net8.0\Aula 01.c#.csproj.CoreCompileInputs.cache
+\\INFO\Informática\INF 07\Jessé\Linguagem de Programação para Desktop\Aula 01.c#\Aula 01.c#\bin\Debug\net8.0\Aula 01.c#.exe
+\\INFO\Informática\INF 07\Jessé\Linguagem de Programação para Desktop\Aula 01.c#\Aula 01.c#\bin\Debug\net8.0\Aula 01.c#.deps.json
+\\INFO\Informática\INF 07\Jessé\Linguagem de Programação para Desktop\Aula 01.c#\Aula 01.c#\bin\Debug\net8.0\Aula 01.c#.runtimeconfig.json
+\\INFO\Informática\INF 07\Jessé\Linguagem de Programação para Desktop\Aula 01.c#\Aula 01.c#\bin\Debug\net8.0\Aula 01.c#.dll
+\\INFO\Informática\INF 07\Jessé\Linguagem de Programação para Desktop\Aula 01.c#\Aula 01.c#\bin\Debug\net8.0\Aula 01.c#.pdb
+\\INFO\Informática\INF 07\Jessé\Linguagem de Programação para Desktop\Aula 01.c#\Aula 01.c#\obj\Debug\net8.0\Aula 01.c#.dll
+\\INFO\Informática\INF 07\Jessé\Linguagem de Programação para Desktop\Aula 01.c#\Aula 01.c#\obj\Debug\net8.0\refint\Aula 01.c#.dll
+\\INFO\Informática\INF 07\Jessé\Linguagem de Programação para Desktop\Aula 01.c#\Aula 01.c#\obj\Debug\net8.0\Aula 01.c#.pdb
+\\INFO\Informática\INF 07\Jessé\Linguagem de Programação para Desktop\Aula 01.c#\Aula 01.c#\obj\Debug\net8.0\Aula 01.c#.genruntimeconfig.cache
+\\INFO\Informática\INF 07\Jessé\Linguagem de Programação para Desktop\Aula 01.c#\Aula 01.c#\obj\Debug\net8.0\ref\Aula 01.c#.dll

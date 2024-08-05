@@ -1,0 +1,6 @@
+﻿A construção começou em 11:32...
+1>------ Compilação iniciada: Projeto: Aula 01.c#, Configuração: Debug Any CPU ------
+1>Ignorando analisadores para acelerar a construção. Você pode executar o comando 'Build' ou 'Rebuild' para executar os analisadores.
+1>Aula 01.c# -> \\INFO\Informática\INF 07\Jessé\Linguagem de Programação para Desktop\Aula 01.c#\Aula 01.c#\bin\Debug\net8.0\Aula 01.c#.dll
+========== Compilação: 1 bem-sucedida, 0 com falha, 0 atualizada, 0 ignorada ==========
+========== Compilação concluído às 11:32 e levou 04,081 segundos ==========
