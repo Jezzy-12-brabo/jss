@@ -1,0 +1,14 @@
+\\info\Informática\INF 07\Jessé\Linguagem de Programação para Desktop\exercicio-2-0608\exercicio-2-0608\exercicio-2-0608\bin\Debug\net8.0\exercicio-2-0608.exe
+\\info\Informática\INF 07\Jessé\Linguagem de Programação para Desktop\exercicio-2-0608\exercicio-2-0608\exercicio-2-0608\bin\Debug\net8.0\exercicio-2-0608.deps.json
+\\info\Informática\INF 07\Jessé\Linguagem de Programação para Desktop\exercicio-2-0608\exercicio-2-0608\exercicio-2-0608\bin\Debug\net8.0\exercicio-2-0608.runtimeconfig.json
+\\info\Informática\INF 07\Jessé\Linguagem de Programação para Desktop\exercicio-2-0608\exercicio-2-0608\exercicio-2-0608\bin\Debug\net8.0\exercicio-2-0608.dll
+\\info\Informática\INF 07\Jessé\Linguagem de Programação para Desktop\exercicio-2-0608\exercicio-2-0608\exercicio-2-0608\bin\Debug\net8.0\exercicio-2-0608.pdb
+\\info\Informática\INF 07\Jessé\Linguagem de Programação para Desktop\exercicio-2-0608\exercicio-2-0608\exercicio-2-0608\obj\Debug\net8.0\exercicio-2-0608.GeneratedMSBuildEditorConfig.editorconfig
+\\info\Informática\INF 07\Jessé\Linguagem de Programação para Desktop\exercicio-2-0608\exercicio-2-0608\exercicio-2-0608\obj\Debug\net8.0\exercicio-2-0608.AssemblyInfoInputs.cache
+\\info\Informática\INF 07\Jessé\Linguagem de Programação para Desktop\exercicio-2-0608\exercicio-2-0608\exercicio-2-0608\obj\Debug\net8.0\exercicio-2-0608.AssemblyInfo.cs
+\\info\Informática\INF 07\Jessé\Linguagem de Programação para Desktop\exercicio-2-0608\exercicio-2-0608\exercicio-2-0608\obj\Debug\net8.0\exercicio-2-0608.csproj.CoreCompileInputs.cache
+\\info\Informática\INF 07\Jessé\Linguagem de Programação para Desktop\exercicio-2-0608\exercicio-2-0608\exercicio-2-0608\obj\Debug\net8.0\exercicio-2-0608.dll
+\\info\Informática\INF 07\Jessé\Linguagem de Programação para Desktop\exercicio-2-0608\exercicio-2-0608\exercicio-2-0608\obj\Debug\net8.0\refint\exercicio-2-0608.dll
+\\info\Informática\INF 07\Jessé\Linguagem de Programação para Desktop\exercicio-2-0608\exercicio-2-0608\exercicio-2-0608\obj\Debug\net8.0\exercicio-2-0608.pdb
+\\info\Informática\INF 07\Jessé\Linguagem de Programação para Desktop\exercicio-2-0608\exercicio-2-0608\exercicio-2-0608\obj\Debug\net8.0\exercicio-2-0608.genruntimeconfig.cache
+\\info\Informática\INF 07\Jessé\Linguagem de Programação para Desktop\exercicio-2-0608\exercicio-2-0608\exercicio-2-0608\obj\Debug\net8.0\ref\exercicio-2-0608.dll
